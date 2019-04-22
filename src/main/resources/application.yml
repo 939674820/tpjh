@@ -1,0 +1,6 @@
+server:
+  port: 9009
+spring:
+  application:
+    name: tpjh #指定服务名
+
